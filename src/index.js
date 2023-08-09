@@ -34,6 +34,3 @@ root.render(
   </StrictMode>
 );
 
-// dev-jvp16i4u774bw6j6.eu.auth0.com
-// PjFjMQZDA0pvKx8HhMtiJ1yOcG40sfEr
-// EE2QHp1yRRrhO6qtVf2JJkQmqhsIXpvHRVgMKvDLX1WfAHwRfrdcZgpZLlmLSFwS
